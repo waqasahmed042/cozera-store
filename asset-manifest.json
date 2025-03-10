@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cozera-store/static/css/main.3bfee318.css",
+    "main.js": "/cozera-store/static/js/main.a202c452.js",
+    "static/js/453.ed3810f9.chunk.js": "/cozera-store/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/cozera-store/index.html",
+    "main.3bfee318.css.map": "/cozera-store/static/css/main.3bfee318.css.map",
+    "main.a202c452.js.map": "/cozera-store/static/js/main.a202c452.js.map",
+    "453.ed3810f9.chunk.js.map": "/cozera-store/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bfee318.css",
+    "static/js/main.a202c452.js"
+  ]
+}
